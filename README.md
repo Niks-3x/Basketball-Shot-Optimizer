@@ -15,3 +15,5 @@ Technologies Used
 - Python 3
 - math (Trigonometry and radian conversions)
 - matplotlib (Data visualization)
+![Trajectory Graph]
+(shot_graph.png)
